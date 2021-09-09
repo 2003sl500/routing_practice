@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Home from "./components/Home";
-import Hello from "./components/Hello";
 import BaseRoute from "./components/BaseRoute";
 
 function App() {

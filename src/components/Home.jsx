@@ -1,9 +1,6 @@
 import React from 'react'
-import { useParams } from 'react-router'
 
-const Home = (props) => {
-
-   
+const Home = () => {
 
     return (
         <div>
